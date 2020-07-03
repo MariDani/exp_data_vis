@@ -9,6 +9,4 @@ Visualization examples
 3D spectrum visualized with Plotly
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://hub.gke.mybinder.org/user/maridani-exp_data_vis-dg4w46r5/notebooks/notebooks/3D_spectrum-plotly.ipynb
-
-
+ :target: https://mybinder.org/v2/gh/MariDani/exp_data_vis/master?filepath=notebooks%2F3D_spectrum-plotly.ipynb
